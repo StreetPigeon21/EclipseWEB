@@ -5,7 +5,7 @@ import { Header } from '../components/header';
 export const metadata = {
     title: {
         template: '%s | Eclipse',
-        default: 'Eclipse.gg'
+        default: 'Eclipse'
     }
 };
 
